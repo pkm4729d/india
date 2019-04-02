@@ -1,0 +1,44 @@
+body {
+  background-color: orange
+}
+
+.h1{
+   color: white;
+}
+
+.h1 {font-size: 50
+}
+
+.textcolour {
+color: black;
+}
+
+.nav-link {
+  color: black !important;
+}
+
+.navbar-brand {
+  color: black !important;
+}
+
+
+.navbar-brand fantasy {
+  font-family: fantasy;
+}
+
+}
+.navbar-brand {font-size: 10pt}
+
+
+h1.display-4 {color: white}
+p.lead {color:white}
+.jumbotron {background-color:green !important;
+}
+
+
+.h1 color: white !important; }
+
+.hhhh {
+  height: 100px;
+  width: 100px;
+}
